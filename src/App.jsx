@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Input from "./Components/Input";
-import Filter from "./Components/filter";
+import Filter from "./Components/Filter";
 import Todos from "./Components/Todos";
 import "./App.css";
 
